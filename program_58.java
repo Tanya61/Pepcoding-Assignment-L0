@@ -1,3 +1,4 @@
+// Write a program to convert currency or number in word.
 
 import java.util.*;
 public class Main {
